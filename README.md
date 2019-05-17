@@ -7,3 +7,5 @@ start from a simple CNN based on the data from cifar10, and practice 5 methods t
 3. Batch Normalization
 4. Drop out
 5. Regularzation
+
+[![We need to go deeper](https://i.kym-cdn.com/photos/images/newsfeed/000/531/557/a88.jpg) "We need to go deeper"](https://knowyourmeme.com/memes/we-need-to-go-deeper)
